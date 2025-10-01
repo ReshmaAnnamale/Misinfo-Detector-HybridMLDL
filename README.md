@@ -3,14 +3,16 @@ A hybrid machine learning and deep learning approach for automated misleading in
 
 Download the GloVe embeddings from the official Stanford NLP website:  
    [GloVe 6B Pre-trained Word Vectors - glove.6B.100d.txt](https://nlp.stanford.edu/projects/glove/) 
+   
 Download the Dataset from kaggle:
-    Fake.csv
-    True.csv
+    -Fake.csv
+    -True.csv
+    
 Run the scripts in the following order:
-    CNN-LSTM Model - CNNLSTM.ipynb
-    Machine Learning Models (KNN, GB, DT) - FakeNews.ipynb
-    Evaluation Metrics - r test.ipynb
-    Main file - main.ipynb
+   - CNN-LSTM Model - CNNLSTM.ipynb
+   - Machine Learning Models (KNN, GB, DT) - FakeNews.ipynb
+   - Evaluation Metrics - r test.ipynb
+   - Main file - main.ipynb
 
 ## Future Work
 - Expand dataset with multilingual fake news sources  
